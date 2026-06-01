@@ -15,7 +15,7 @@
 - Gestion des camps, régions et revenus
 - Camps neutres passifs avec tourelles défensives
 
-### ⚔️ 7 types d'unités
+###  7 types d'unités
 | Unité | Description |
 |---|---|
 |  Infanterie | Unité de base, combat au corps à corps |
@@ -116,8 +116,8 @@ chmod +x compile.sh
 ##  Documentation
 
 Le projet inclut une documentation complète dans le dossier `docs/` :
-- 📖 **Guide Utilisateur** — Comment jouer
-- 🔧 **Documentation Technique** — Architecture, IA, pathfinding, réseau, choix d'implémentation
+-  **Guide Utilisateur** — Comment jouer
+-  **Documentation Technique** — Architecture, IA, pathfinding, réseau, choix d'implémentation
 
 ---
 
